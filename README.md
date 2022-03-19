@@ -30,6 +30,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" **alt="RStudio" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekyadav26&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <!--
 **vivekyadav26/vivekyadav26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
