@@ -14,7 +14,7 @@
 
 - :zap: I believe in hands-on learning and spend most of my free time in exploring new technologies through experiments and development. 
 
-- 📫  Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vivekyadav26)
+- 📫  Connect with me: [LinkedIn](www.linkedin.com/in/vivekyadav26)
 
 ---
 
