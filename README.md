@@ -1,24 +1,24 @@
-### Hi there 👋
+
+
+ <span style="font-size:25px;color:#ff6900;font-weight:200;font-family: 'Bradley Hand'">Hello! I'm Vivek</span>
 
 ---
 
 ### About Me:
 
-- 🔭   I am currently working as travel demand modeler at [Cambridge Systematics, Inc.](https://camsys.com/). Most of my job includes developing/applying/modifying trip-based and activity-based travel demand models but I also do exploratory data analysis with various types of data such as surveys, vehicle trajectories, [gtfs](https://gtfs.org/) etc. 
+- 🔭   Travel demand modeler at [Cambridge Systematics, Inc](https://camsys.com/).
 
-- 🌱   I am recently exploring AI/ML applications in the transportation domain.
+- 🌱   Exploring AI/ML applications in the transportation domain.
 
 - :zap: I believe in hands-on learning and spend most of my free time in exploring new technologies through experiments and development. 
 
-- 📫  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vivekyadav26)
+- 📫  Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vivekyadav26)
 
 ---
 
-#### :hammer_and_wrench: Softwares:
+#### :hammer_and_wrench: Languages:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
